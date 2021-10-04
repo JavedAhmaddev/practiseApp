@@ -28,8 +28,7 @@ function CompC() {
             <div>
               {name1.signedIn ? (
                 <h2>
-                  My First name is: {User.firstname} and Lastname is :
-                  {User.Lastname}
+                  My First name is {User.firstname} and Lastname is {User.Lastname}
                 </h2>
               ) : (
                 <>
