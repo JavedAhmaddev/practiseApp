@@ -1,9 +1,10 @@
 import React from 'react'
+import UseReducerHook from './UseReducerHook'
 
 function Hooks() {
     return (
         <div>
-            <h1> hooks practise started </h1>
+            <UseReducerHook></UseReducerHook>
         </div>
     )
 }
