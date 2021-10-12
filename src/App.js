@@ -1,10 +1,10 @@
 import React from 'react'
-import AxiosPractise from './components/AxiosPractise'
+import Hooks from './components/Hooks'
 
 function App() {
   return (
     <div>
-      <AxiosPractise></AxiosPractise>
+      <Hooks></Hooks>
     </div>
   )
 }
