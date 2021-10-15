@@ -1,6 +1,5 @@
 import React from 'react'
-import UseLayoutHook from './UseLayoutHook'
-// import UseRefHook from './UseRefHook'
+import UseRefHook from './UseRefHook'
 // import UseEffectHook from './UseEffectHook'
 // import UseReducerHook from './UseReducerHook'
 
@@ -9,8 +8,7 @@ function Hooks() {
         <div>
             {/* <UseReducerHook></UseReducerHook> */}
             {/* <UseEffectHook></UseEffectHook> */}
-            {/* <UseRefHook></UseRefHook> */}
-            <UseLayoutHook></UseLayoutHook>
+            <UseRefHook></UseRefHook>
         </div>
     )
 }
